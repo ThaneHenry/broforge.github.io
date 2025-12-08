@@ -33,5 +33,5 @@ We provide consulting on:
 
 ## Contact
 
-Feel free to reach out: [henryashleycooper@gmail.com](mailto:henryashleycooper@gmail.com)  
+Feel free to reach out: [hello@broforge.co.uk](mailto:hello@broforge.co.uk)  
 Or connect with us on [X](https://x.com/thegnhenry).
