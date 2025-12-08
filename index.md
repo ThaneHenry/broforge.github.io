@@ -23,7 +23,7 @@ Forging new worlds
 
 [Alex 'Chozabu' PB']([url](https://chozabu.net/))
 
-Henry Ashley-Cooper
+[Henry Ashley-Cooper](https://x.com/thegnhenry)
 
 ## Consulting
 
