@@ -26,9 +26,10 @@ Forging new worlds
 ## Consulting
 
 We provide consulting on:
-* Generalist Unreal Engine
-* Technical art in Unreal Engine
-* Game UX design
+* Unreal Engine - Generalist
+* Unreal Engine - Blueprints
+* Unreal Engine - Technical art
+* UX design - Game Interface
 
 ## Contact
 
