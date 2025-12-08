@@ -1,107 +1,55 @@
 /* -------------------------------------------------------------
-   Broforge — custom overrides for Quick theme
-   Minimal, tasteful gradients + subtle spice
+   Broforge — subtle enhancements on top of Quick theme
+   (No major overrides, just polish)
 --------------------------------------------------------------*/
 
-/* Global tweaks */
-:root {
-  --bf-accent-start: hsl(210, 90%, 60%);
-  --bf-accent-end:   hsl(260, 80%, 65%);
-  --bf-bg-fade-start: hsl(220, 15%, 10%);
-  --bf-bg-fade-end:   hsl(220, 15%, 16%);
-}
-
-body {
-  background: linear-gradient(
-      180deg,
-      var(--bf-bg-fade-start) 0%,
-      var(--bf-bg-fade-end) 100%
-    );
-  background-attachment: fixed;
-  color: var(--text-color);
-}
-
-/* Headings get a faint gradient text effect */
-h1, h2, h3 {
+/* ---- Headings: gentle gradient text ---------------------------------- */
+h1, h2 {
   background: linear-gradient(
       90deg,
-      var(--bf-accent-start),
-      var(--bf-accent-end)
+      hsl(210, 85%, 65%),
+      hsl(280, 75%, 65%)
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
-/* Subheadings slightly less intense */
-h4, h5, h6 {
-  color: var(--bf-accent-start);
-  opacity: 0.85;
+h3 {
+  background: linear-gradient(
+      90deg,
+      hsl(210, 75%, 70%),
+      hsl(280, 65%, 70%)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  opacity: 0.9;
 }
 
-/* Links */
+/* ---- Images: subtle pop / elevate on hover --------------------------- */
+img {
+  border-radius: 8px;
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease;
+  will-change: transform;
+}
+
+img:hover {
+  transform: translateY(-4px) scale(1.015);
+  box-shadow: 0 8px 18px rgba(0,0,0,0.18);
+}
+
+/* ---- Links: slightly softer hover highlight -------------------------- */
 a {
-  color: var(--bf-accent-start);
   transition: color 0.2s ease, text-shadow 0.2s ease;
 }
 
 a:hover {
-  color: var(--bf-accent-end);
-  text-shadow: 0 0 6px var(--bf-accent-end);
+  text-shadow: 0 0 4px currentColor;
 }
 
-/* Images: slight rounding + smooth fade-in */
-img {
-  border-radius: 12px;
-  opacity: 0;
-  transform: translateY(4px);
-  transition: opacity 0.4s ease, transform 0.4s ease;
-}
-
-img:not([src=""]) {
-  opacity: 1;
-  transform: translateY(0);
-}
-
-/* Cards / blocks created by Quick */
-section, article {
-  background: rgba(255,255,255,0.02);
-  backdrop-filter: blur(4px);
-  border-radius: 14px;
-  padding: 1.4rem 1.6rem;
-  margin: 1.4rem 0;
-  border: 1px solid rgba(255,255,255,0.05);
-  transition: border 0.25s ease, background 0.25s ease;
-}
-
+/* ---- Sections: very light lift on hover, extremely subtle ------------ */
 section:hover, article:hover {
-  border: 1px solid rgba(255,255,255,0.12);
-  background: rgba(255,255,255,0.04);
-}
-
-/* Buttons in Quick */
-button, .button {
-  background: linear-gradient(
-      135deg,
-      var(--bf-accent-start),
-      var(--bf-accent-end)
-  );
-  border-radius: 10px;
-  padding: 0.6rem 1.2rem;
-  border: none;
-  color: white !important;
-  font-weight: 600;
-  cursor: pointer;
-  transition: transform 0.15s ease, box-shadow 0.2s ease;
-}
-
-button:hover, .button:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
-}
-
-/* Footer subtle top border */
-footer {
-  border-top: 1px solid rgba(255,255,255,0.08);
-  padding-top: 1rem;
-  opacity: 0.75;
+  transition: background 0.2s ease;
+  background: rgba(255, 255, 255, 0.015);
 }

@@ -13,11 +13,11 @@ Forging new worlds
 
 - **[Europa]([url](https://store.steampowered.com/app/2214880/Europa/))** — An amazing zen scifi adventure game by [Novadust Entertainment](https://www.linkedin.com/company/novadust/)
 
-  ![Placeholder for game screenshot](assets/img/game1.png)
+  ![Placeholder for game screenshot](assets/img/europa.png)
 
 - **Wheelz** — 2.5D Physics platformer that got over 2 million downloads on Android
 
-  ![Placeholder for game screenshot](assets/img/game2.png)
+  ![Placeholder for game screenshot](assets/img/wheelz.png)
 
 ## Team
 
