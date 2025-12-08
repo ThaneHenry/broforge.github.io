@@ -34,5 +34,5 @@ We provide consulting on:
 
 ## Contact
 
-Feel free to reach out: [contact@broforge.example.com](mailto:contact@broforge.example.com)  
-Or connect with us on [X]([url](https://x.com/home)).
+Feel free to reach out: [henryashleycooper@gmail.com](mailto:henryashleycooper@gmail.com)  
+Or connect with us on [X](https://x.com/thegnhenry).
