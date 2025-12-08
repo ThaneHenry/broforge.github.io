@@ -33,8 +33,7 @@ main > h1:first-of-type img[alt="Studio Logo / Icon"] {
 img:not([alt="Studio Logo / Icon"]) {
   max-width: min(640px, 100%);
   height: auto;
-  display: block;
-  margin: 1.5rem auto;
+  display: flex;
   border-radius: 12px; /* optional, but looks good for screenshots */
 }
 
