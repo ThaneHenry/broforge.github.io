@@ -44,14 +44,9 @@ Ping us an email at [hello@broforge.co.uk](mailto:hello@broforge.co.uk)
   <a href="[https://linkedin.com/in/yourname](https://www.threads.com/@henryashleycooper)" aria-label="Threads">
     <i class="fa-brands fa-threads"></i>
   </a>
+    <a href="https://www.linkedin.com/company/broforge" aria-label="Threads">
+    <i class="fa-brands fa-threads"></i>
+  </a>
 </div>
-
-test
-
-<div style="color:red; font-weight:bold;">
-  HTML test works
-</div>
-
-Connect with us on [X](https://x.com/thegnhenry).
 
 Find us on [Linkedin](https://www.linkedin.com/company/broforge).
