@@ -37,15 +37,19 @@ We provide consulting on:
 
 Ping us an email at [hello@broforge.co.uk](mailto:hello@broforge.co.uk)  
 
+Or find us on social networks:
 <div class="social">
   <a href="https://x.com/thanehenry" aria-label="Twitter">
-    <i class="fa-brands fa-x-twitter"></i>
+    <i class="fa-brands fa-x-twitter fa-2x"></i>
   </a>
-  <a href="[https://linkedin.com/in/yourname](https://www.threads.com/@henryashleycooper)" aria-label="Threads">
-    <i class="fa-brands fa-threads"></i>
+  <a href="https://www.linkedin.com/company/broforge" aria-label="LinkedIn">
+    <i class="fa-brands fa-linkedin fa-2x"></i>
   </a>
-    <a href="https://www.linkedin.com/company/broforge" aria-label="Threads">
-    <i class="fa-brands fa-threads"></i>
+  <a href="https://www.threads.com/@henryashleycooper" aria-label="Threads">
+    <i class="fa-brands fa-threads fa-2x"></i>
+  </a>
+  <a href="https://www.instagram.com/henryashleycooper/" aria-label="Instagram">
+    <i class="fa-brands fa-instagram fa-2x"></i>
   </a>
 </div>
 
