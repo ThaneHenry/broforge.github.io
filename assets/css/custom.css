@@ -37,4 +37,22 @@ img:not([alt="Studio Logo / Icon"]) {
   border-radius: 12px; /* optional, but looks good for screenshots */
 }
 
+/* Social icon styling */
+.social a {
+  font-size: 2rem;       /* optional, overrides fa-2x if you want exact control */
+  margin-right: 16px;    /* spacing between icons */
+  padding: 8px;          /* extra clickable area around the icon */
+  color: #333;           /* icon color */
+  text-decoration: none; /* remove underline from links */
+  display: inline-block; /* ensures padding works properly */
+  transition: color 0.2s; /* smooth hover effect */
+}
+
+.social a:last-child {
+  margin-right: 0;       /* no extra space after the last icon */
+}
+
+.social a:hover {
+  color: #0077b5;        /* optional hover color (example: blue) */
+}
 
