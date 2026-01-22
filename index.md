@@ -51,4 +51,7 @@ Or find us on social networks:
   <a href="https://www.instagram.com/henryashleycooper/" aria-label="Instagram">
     <i class="fa-brands fa-instagram fa-2x"></i>
   </a>
+    <a href="https://www.facebook.com/thebroforge/" aria-label="Instagram">
+    <i class="fa-brands fa-facebook fa-2x"></i>
+  </a>
 </div>
