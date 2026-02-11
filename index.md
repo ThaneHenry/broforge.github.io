@@ -39,6 +39,9 @@ Ping us an email at [hello@broforge.co.uk](mailto:hello@broforge.co.uk)
 
 Or find us on social networks:
 <div class="social">
+   <a href="https://discord.gg/kFwp5t96" aria-label="Twitter">
+    <i class="fa-brands fa-x-discord fa-2x"></i>
+  </a> 
   <a href="https://x.com/thanehenry" aria-label="Twitter">
     <i class="fa-brands fa-x-twitter fa-2x"></i>
   </a>  
