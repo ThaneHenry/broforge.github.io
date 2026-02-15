@@ -6,7 +6,7 @@ Forging new worlds.
 
 ## What we're working on now
 
-**Hovertron** — 2.5D physics-based hoverboarding game.
+**[Hovertron](https://hovertron.net/)** — 2.5D physics-based hoverboarding game.
 
 ![Hovertron gameplay screenshot](assets/img/hovertron.png)
 
