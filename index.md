@@ -39,12 +39,15 @@ Ping us an email at [hello@broforge.co.uk](mailto:hello@broforge.co.uk)
 
 Or find us on social networks:
 <div class="social">
-   <a href="https://discord.gg/DgDBXCsBBf" aria-label="Twitter">
+   <a href="https://discord.gg/DgDBXCsBBf" aria-label="Discord">
     <i class="fa-brands fa-discord fa-2x"></i>
   </a> 
   <a href="https://x.com/thanehenry" aria-label="Twitter">
     <i class="fa-brands fa-x-twitter fa-2x"></i>
-  </a>  
+  </a>
+  <a href="https://www.youtube.com/@broforgestudio" aria-label="Youtube">
+    <i class="fa-brands fa-youtube fa-2x"></i>
+  </a>
   <a href="https://www.linkedin.com/company/broforge" aria-label="LinkedIn">
     <i class="fa-brands fa-linkedin fa-2x"></i>
   </a>  
