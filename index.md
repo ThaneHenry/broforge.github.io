@@ -60,4 +60,8 @@ Or find us on social networks:
     <a href="https://www.facebook.com/thebroforge/" aria-label="Instagram">
     <i class="fa-brands fa-facebook fa-2x"></i>
   </a>
+  </a>
+    <a href="https://www.reddit.com/r/Broforge/" aria-label="Reddit">
+    <i class="fa-brands fa-reddit fa-2x"></i>
+  </a>
 </div>
