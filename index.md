@@ -1,5 +1,33 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
+<button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+  <i class="fa-solid fa-moon"></i>
+</button>
+
+<script>
+  // Theme toggle functionality
+  const themeToggle = document.getElementById('themeToggle');
+  const html = document.documentElement;
+  
+  // Check localStorage for saved theme preference
+  const savedTheme = localStorage.getItem('theme') || 'light';
+  html.setAttribute('data-theme', savedTheme);
+  updateToggleIcon(savedTheme);
+  
+  themeToggle.addEventListener('click', () => {
+    const currentTheme = html.getAttribute('data-theme');
+    const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+    html.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+    updateToggleIcon(newTheme);
+  });
+  
+  function updateToggleIcon(theme) {
+    const icon = themeToggle.querySelector('i');
+    icon.className = theme === 'light' ? 'fa-solid fa-moon' : 'fa-solid fa-sun';
+  }
+</script>
+
 # Broforge ![Studio Logo / Icon](assets/img/logo-icon.png)
 
 Forging new worlds.
