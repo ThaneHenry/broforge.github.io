@@ -28,7 +28,11 @@
   }
 </script>
 
-# Broforge ![Studio Logo / Icon](assets/img/logo-icon.png)
+<div class="hero-title">
+  ![Studio Logo / Icon](assets/img/logo-icon.png)
+</div>
+
+# Broforge
 
 Forging new worlds.
 
