@@ -45,7 +45,7 @@ Ping us an email at [hello@broforge.co.uk](mailto:hello@broforge.co.uk)
 
 Or find us on social networks:
 <div class="social">
-  <a href="https://discord.gg/DgDBXCsBBf" aria-label="Discord">
+   <a href="https://discord.gg/DgDBXCsBBf" aria-label="Discord">
     <i class="fa-brands fa-discord fa-2x"></i>
   </a> 
   <a href="https://x.com/thanehenry" aria-label="Twitter">
@@ -63,7 +63,7 @@ Or find us on social networks:
   <a href="https://www.instagram.com/henryashleycooper/" aria-label="Instagram">
     <i class="fa-brands fa-instagram fa-2x"></i>
   </a>
-  <a href="https://www.facebook.com/thebroforge/" aria-label="Facebook">
+    <a href="https://www.facebook.com/thebroforge/" aria-label="Facebook">
     <i class="fa-brands fa-facebook fa-2x"></i>
   </a>
   <a href="https://www.reddit.com/r/Broforge/" aria-label="Reddit">
