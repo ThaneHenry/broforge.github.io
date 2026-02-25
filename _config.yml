@@ -2,6 +2,6 @@ remote_theme: devich/quick@0.0.1
 title: Broforge
 description: Broforge — forging great games
 theme_color: slate     # or choose whichever accent you want
-bg_color: auto
+bg_color: dark
 lang: en-GB
 keywords: broforge, game studio, unreal engine, hovertron, europa, wheelz
