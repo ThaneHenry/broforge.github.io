@@ -21,16 +21,13 @@ main > h1:first-of-type {
 }
 
 /* Icon style */
-main > h1:first-of-type img[alt="Studio Logo / Icon"] {
-  width: 80px;
-  height: 80px;
-  object-fit: contain;
-  margin-left: -4px;
+img[alt="Studio Logo"] {
+  width: 500px;
 }
 
 
 /* Sensible size cap for content images (screenshots) */
-img:not([alt="Studio Logo / Icon"]) {
+img:not([alt="Studio Logo"]) {
   max-width: min(640px, 100%);
   height: auto;
   display: flex;
