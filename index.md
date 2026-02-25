@@ -1,8 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-![Studio Logo / Icon](assets/img/logo-wide.png)
-
-Forging new worlds.
+![Studio Logo](assets/img/logo-wide.png)
 
 ## What we're working on now
 
