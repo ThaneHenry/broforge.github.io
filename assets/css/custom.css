@@ -1,3 +1,8 @@
+:root {
+  --pico-color: #EBEBEB;          /* text */
+  --pico-background-color: #1C1C1C;  /* page background */
+}
+
 /* 1) Google Font: Jaro, but ONLY for the main site title */
 @import url("https://fonts.googleapis.com/css2?family=Jaro&display=swap");
 
