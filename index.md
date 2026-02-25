@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-# Broforge ![Studio Logo / Icon](assets/img/logo-icon.png)
+![Studio Logo / Icon](assets/img/logo-wide.png)
 
 Forging new worlds.
 
@@ -8,7 +8,7 @@ Forging new worlds.
 
 **[Hovertron](https://store.steampowered.com/app/4355010/Hovertron/)** — 2.5D physics-based hoverboarding game.
 
-![Hovertron gameplay screenshot](assets/img/t0MZDB.gif)
+![Hovertron gameplay screenshot](assets/img/desert.gif)
 
 ## Past games we've worked on
 
@@ -57,7 +57,7 @@ Or find us on social networks:
   <a href="https://www.instagram.com/henryashleycooper/" aria-label="Instagram">
     <i class="fa-brands fa-instagram fa-2x"></i>
   </a>
-    <a href="https://www.facebook.com/thebroforge/" aria-label="Instagram">
+  <a href="https://www.facebook.com/thebroforge/" aria-label="Instagram">
     <i class="fa-brands fa-facebook fa-2x"></i>
   </a>
   <a href="https://www.reddit.com/r/Broforge/" aria-label="Reddit">
