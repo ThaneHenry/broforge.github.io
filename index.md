@@ -6,25 +6,19 @@ Forging new worlds.
 
 ## What we're working on now
 
-<div class="game-card">
-<strong><a href="https://store.steampowered.com/app/4355010/Hovertron/">Hovertron</a></strong> — 2.5D physics-based hoverboarding game.
-</div>
+**[Hovertron](https://store.steampowered.com/app/4355010/Hovertron/)** — 2.5D physics-based hoverboarding game.
 
 ![Hovertron gameplay screenshot](assets/img/t0MZDB.gif)
 
 ## Past games we've worked on
 
-<div class="game-card">
-<strong><a href="https://store.steampowered.com/app/2214880/Europa/">Europa</a></strong> — An amazing zen sci-fi adventure game by <a href="https://www.linkedin.com/company/novadust/">Novadust Entertainment</a>.
-</div>
+**[Europa](https://store.steampowered.com/app/2214880/Europa/)** — An amazing zen sci-fi adventure game by [Novadust Entertainment](https://www.linkedin.com/company/novadust/).
 
-![Europa gameplay screenshot](assets/img/europa.jpg)
+  ![Europa gameplay screenshot](assets/img/europa.jpg)
 
-<div class="game-card">
-<strong>Wheelz</strong> — 2.5D physics platformer that got over 2 million downloads on Android.
-</div>
+**Wheelz** — 2.5D physics platformer that got over 2 million downloads on Android.
 
-![Wheelz gameplay screenshot](assets/img/wheelz.webp)
+  ![Wheelz gameplay screenshot](assets/img/wheelz.webp)
 
 ## Team
 
@@ -63,10 +57,11 @@ Or find us on social networks:
   <a href="https://www.instagram.com/henryashleycooper/" aria-label="Instagram">
     <i class="fa-brands fa-instagram fa-2x"></i>
   </a>
-    <a href="https://www.facebook.com/thebroforge/" aria-label="Facebook">
+    <a href="https://www.facebook.com/thebroforge/" aria-label="Instagram">
     <i class="fa-brands fa-facebook fa-2x"></i>
   </a>
-  <a href="https://www.reddit.com/r/Broforge/" aria-label="Reddit">
+  </a>
+    <a href="https://www.reddit.com/r/Broforge/" aria-label="Reddit">
     <i class="fa-brands fa-reddit fa-2x"></i>
   </a>
 </div>
