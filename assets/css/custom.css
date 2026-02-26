@@ -33,9 +33,10 @@ main > h1:first-of-type {
   margin-bottom: 1rem;        /* breathing room below */
 }
 
-/* Icon style */
+/* logo img style */
 img[alt="Studio Logo"] {
   width: 500px;
+  margin: auto;
 }
 
 
