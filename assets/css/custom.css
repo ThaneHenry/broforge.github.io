@@ -10,16 +10,17 @@ main > h1:first-of-type {
   line-height: 1.1;
 }
 
-/* center content */
-main,
-.page-content,
-.wrapper,
-.container {
-  max-width: 900px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 20px;
-  padding-right: 20px;
+/* Center the whole page content in a readable column */
+body {
+  max-width: 960px;      /* tweak: 780–1100px */
+  margin: 0 auto;
+  padding: 0 24px;       /* side gutter on mobile/desktop */
+}
+
+/* Make sure media doesn't overflow the column */
+img, video, iframe {
+  max-width: 100%;
+  height: auto;
 }
 
 /* Create a wrapper around the first H1 without touching HTML */
