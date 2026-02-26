@@ -12,7 +12,7 @@ main > h1:first-of-type {
 
 /* Center the whole page content in a readable column */
 body {
-  max-width: 960px;      /* tweak: 780–1100px */
+  max-width: 780px;      /* tweak: 780–1100px */
   margin: 0 auto;
   padding: 0 24px;       /* side gutter on mobile/desktop */
 }
