@@ -46,6 +46,9 @@ Or find us on social networks:
   <a href="https://www.youtube.com/@broforgestudio" aria-label="Youtube">
     <i class="fa-brands fa-youtube fa-2x"></i>
   </a>
+  <a href="https://www.tiktok.com/@broforge" aria-label="Tiktok">
+    <i class="fa-brands fa-tiktok fa-2x"></i>
+  </a>
   <a href="https://www.linkedin.com/company/broforge" aria-label="LinkedIn">
     <i class="fa-brands fa-linkedin fa-2x"></i>
   </a>  
@@ -55,7 +58,7 @@ Or find us on social networks:
   <a href="https://www.instagram.com/henryashleycooper/" aria-label="Instagram">
     <i class="fa-brands fa-instagram fa-2x"></i>
   </a>
-  <a href="https://www.facebook.com/thebroforge/" aria-label="Instagram">
+  <a href="https://www.facebook.com/thebroforge/" aria-label="Facebook">
     <i class="fa-brands fa-facebook fa-2x"></i>
   </a>
   <a href="https://www.reddit.com/r/Broforge/" aria-label="Reddit">
