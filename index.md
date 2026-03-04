@@ -6,17 +6,17 @@
 
 **[Hovertron](https://store.steampowered.com/app/4355010/Hovertron/)** — 2.5D physics-based hoverboarding game.
 
-![Hovertron gameplay screenshot](assets/img/desert.gif)
+  <img class="screenshot" src="assets/img/desert.gif" alt="Hovertron gameplay screenshot">
 
 ## Past games we've worked on
 
 **[Europa](https://store.steampowered.com/app/2214880/Europa/)** — An amazing zen sci-fi adventure game by [Novadust Entertainment](https://www.linkedin.com/company/novadust/).
 
-  ![Europa gameplay screenshot](assets/img/europa.jpg)
+  <img class="screenshot" src="assets/img/europa.jpg" alt="Europa gameplay screenshot">
 
 **Wheelz** — 2.5D physics platformer that got over 2 million downloads on Android.
 
-  ![Wheelz gameplay screenshot](assets/img/wheelz.webp)
+  <img class="screenshot" src="assets/img/wheelz.webp" alt="Wheelz gameplay screenshot">
 
 ## Team
 
