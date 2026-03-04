@@ -41,22 +41,15 @@ img[alt="Studio Logo"] {
 }
 
 /* portrait img style */
-img[alt="Alex portrait"] {
+img.portrait {
   display: block;
   width: 100px;
   border-radius: 50px;
   margin: auto;
 }
 
-img[alt="Henry portrait"] {
-  display: block;
-  width: 100px;
-  border-radius: 50px;
-  margin: auto;
-}
-
-/* Sensible size cap for content images (screenshots) */
-img:not([alt="Studio Logo"]) {
+/* Sensible size cap for screenshots */
+img.screenshot {
   max-width: min(640px, 100%);
   height: auto;
   display: flex;
