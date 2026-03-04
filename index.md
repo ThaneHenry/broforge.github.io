@@ -21,9 +21,10 @@
 ## Team
 
 [Alex "Chozabu" PB](https://chozabu.net/)
-![Alex portrait](assets/img/alexsquare.jpg)
+<img class="portrait" src="assets/img/alexsquare.jpg" alt="Alex portrait">
+
 [Henry Ashley-Cooper](https://x.com/thegnhenry)
-![Henry portrait](assets/img/henrysquare.jpg)
+<img class="portrait" src="assets/img/henrysquare.jpg" alt="Alex portrait">
 
 ## Consulting
 
