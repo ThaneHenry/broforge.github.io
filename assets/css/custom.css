@@ -45,7 +45,7 @@ img.portrait {
   display: block;
   width: 100px;
   border-radius: 50px;
-  margin: auto;
+  margin: 5px;
 }
 
 /* Sensible size cap for screenshots */
