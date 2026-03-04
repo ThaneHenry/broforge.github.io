@@ -41,14 +41,14 @@ img[alt="Studio Logo"] {
 }
 
 /* portrait img style */
-img[alt="alex portrait"] {
+img[alt="Alex portrait"] {
   display: block;
   width: 100px;
   border-radius: 50px;
   margin: auto;
 }
 
-img[alt="henry portrait"] {
+img[alt="Henry portrait"] {
   display: block;
   width: 100px;
   border-radius: 50px;
